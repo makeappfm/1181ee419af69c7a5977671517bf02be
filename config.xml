@@ -32,7 +32,7 @@
 
 
     <platform name="android">
-        <icon backgroud="res/android/icon/ldpi_1616355900_708ee240c96401238dc8.png" density="ldpi" foreground="res/android/icon/ldpi_1616355900_708ee240c96401238dc8.png" />
+        <icon backgroud="res/android/icon/ldpi_1616355900_708ee240c96401238dc8.png" width="57" height="57" density="ldpi" foreground="res/android/icon/ldpi_1616355900_708ee240c96401238dc8.png" />
 
         <splash backgroud="res/android/screen/hdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-hdpi" foreground="res/android/screen/hdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" />
         <splash backgroud="res/android/screen/ldpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-ldpi" foreground="res/android/screen/ldpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" />
