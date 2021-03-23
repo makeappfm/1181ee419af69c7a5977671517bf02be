@@ -33,18 +33,18 @@
 
     <platform name="android">
             <icon src="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" />
-<icon density="mdpi" src="res/icon/android/icon-48-mdpi.png" />
-<icon density="hdpi" src="res/icon/android/icon-72-hdpi.png" />
-<icon density="xhdpi" src="res/icon/android/icon-96-xhdpi.png" />
-<icon density="xxhdpi" src="res/icon/android/icon-144-xxhdpi.png" />
-<icon density="xxxhdpi" src="res/icon/android/icon-192-xxxhdpi.png" />
+<icon density="mdpi" src="res/icon/android/mdpi_1616355900_708ee240c96401238dc8.png" />
+<icon density="hdpi" src="res/icon/android/hdpi_1616355900_708ee240c96401238dc8.png" />
+<icon density="xhdpi" src="res/icon/android/xhdpi_1616355900_708ee240c96401238dc8.png" />
+<icon density="xxhdpi" src="res/icon/android/xxhdpi_1616355900_708ee240c96401238dc8.png" />
+<icon density="xxxhdpi" src="res/icon/android/xxxhdpi_1616355900_708ee240c96401238dc8.png" />
         
 
-        <splash backgroud="res/android/screen/hdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-hdpi" foreground="res/android/screen/hdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" />
-        <splash backgroud="res/android/screen/ldpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-ldpi" foreground="res/android/screen/ldpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" />
-        <splash backgroud="res/android/screen/mdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-mdpi" foreground="res/android/screen/mdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" />
-        <splash backgroud="res/android/screen/xhdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-xhdpi" foreground="res/android/screen/xhdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" />
-        <splash backgroud="res/android/screen/hdpi_land_1616355923_f0ea5e2f3b6ee80f8d86.png" density="land-hdpi" foreground="res/android/screen/hdpi_land_1616355923_f0ea5e2f3b6ee80f8d86.png" />
+        <splash src="res/android/screen/hdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-hdpi" />
+        <splash src="res/android/screen/ldpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-ldpi" />
+        <splash src="res/android/screen/mdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-mdpi" />
+        <splash src="res/android/screen/xhdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-xhdpi" />
+        <splash src="res/android/screen/hdpi_land_1616355923_f0ea5e2f3b6ee80f8d86.png" density="land-hdpi" />
         <splash src="res/android/screen/ldpi_land_1616355923_f0ea5e2f3b6ee80f8d86.png" density="land-ldpi"/>
         <splash src="res/android/screen/mdpi_land_1616355923_f0ea5e2f3b6ee80f8d86.png" density="land-mdpi"/>
         <splash src="res/android/screen/xhdpi_land_1616355923_f0ea5e2f3b6ee80f8d86.png" density="land-xhdpi"/>
