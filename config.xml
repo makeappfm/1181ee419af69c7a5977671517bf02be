@@ -30,9 +30,9 @@
 
     <preference name="Fullscreen" value="false" />
 
-
+    <icon src="res/android/icon/ldpi_1616355900_708ee240c96401238dc8.png" platform="android" density="ldpi" />
     <platform name="android">
-        <icon src="res/android/icon/ldpi_1616355900_708ee240c96401238dc8.png" />
+        
        <!-- <icon density="mdpi" src="res/android/icon/mdpi_1616355900_708ee240c96401238dc8.png" />
         <icon density="hdpi" src="res/android/icon/hdpi_1616355900_708ee240c96401238dc8.png" />
         <icon density="xhdpi" src="res/android/icon/xhdpi_1616355900_708ee240c96401238dc8.png" />
