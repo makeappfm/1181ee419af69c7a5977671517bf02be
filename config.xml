@@ -30,7 +30,7 @@
 
     <preference name="Fullscreen" value="false" />
 
-    <icon src="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" platform="android" density="ldpi" />
+<!    <icon src="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" platform="android" density="ldpi" />-->
     <platform name="android">
             
         <icon density="ldpi" background="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" />
