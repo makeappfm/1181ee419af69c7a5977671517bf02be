@@ -2,7 +2,7 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.test.test2"
-        android-versionCode = "8.0"
+        versionCode = "10"
         version     = "1.0.0">
 
     <name>test23</name>
@@ -30,15 +30,14 @@
 
     <preference name="Fullscreen" value="false" />
 
-<!    <icon src="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" platform="android" density="ldpi" />-->
     <platform name="android">
             
-        <icon density="ldpi" background="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" />
-        <icon density="mdpi" background="res/icon/android/mdpi_1616355900_708ee240c96401238dc8.png" />
-        <icon density="hdpi" background="res/icon/android/hdpi_1616355900_708ee240c96401238dc8.png" />
-        <icon density="xhdpi" background="res/icon/android/xhdpi_1616355900_708ee240c96401238dc8.png" />
-        <icon density="xxhdpi" background="res/icon/android/xxhdpi_1616355900_708ee240c96401238dc8.png" />
-        <icon density="xxxhdpi" background="res/icon/android/xxxhdpi_1616355900_708ee240c96401238dc8.png" />
+        <icon background="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" density="ldpi" foreground="res/icon/android/ldpi_1616355900_708ee240c96401238dc8.png" />
+        <icon background="res/icon/android/mdpi_1616355900_708ee240c96401238dc8.png" density="mdpi" foreground="res/icon/android/mdpi_1616355900_708ee240c96401238dc8.png" />
+        <icon background="res/icon/android/hdpi_1616355900_708ee240c96401238dc8.png" density="hdpi" foreground="res/icon/android/hdpi_1616355900_708ee240c96401238dc8.png" />
+        <icon background="res/icon/android/xhdpi_1616355900_708ee240c96401238dc8.png" density="xhdpi" foreground="res/icon/android/xhdpi_1616355900_708ee240c96401238dc8.png" />
+        <icon background="res/icon/android/xxhdpi_1616355900_708ee240c96401238dc8.png" density="xxhdpi" foreground="res/icon/android/xxhdpi_1616355900_708ee240c96401238dc8.png" />
+        <icon background="res/icon/android/xxxhdpi_1616355900_708ee240c96401238dc8.png" density="xxxhdpi" foreground="res/icon/android/xxxhdpi_1616355900_708ee240c96401238dc8.png" />
         
 
         <splash src="res/android/screen/hdpi_port_1616355923_f0ea5e2f3b6ee80f8d86.png" density="port-hdpi" />
